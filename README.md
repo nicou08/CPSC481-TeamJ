@@ -1,2 +1,2 @@
 # CPSC481-TeamJ
-Project for CPSC 481 Fall 2020
+Group Project for CPSC 481 - Computer-Human Interaction Fall 2020
